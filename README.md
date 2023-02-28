@@ -1,6 +1,6 @@
-# DjangoCatShop
+# DjangoCatSite
 
-Online shop with django,sqllite3,bootstrap
+Online site with django,sqllite3,bootstrap
 
 Простой портал для электронной библиотеки. Админка должна содержит две страницы:
 список всех котиков с пагинацией (по 5 котов) и поиском. При нажатии на котика попадаем на вторую страницу
